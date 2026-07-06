@@ -9,7 +9,7 @@ capson = capson.upper()
 print("upper = " + capson)
 
 # Merubah semua ke lower case
-capsoff = "ANJINK LU!" 
+capsoff = "KEREN LU!" 
 print("normal = " + capsoff)
 capsoff = capsoff.lower()
 print("lower = " + capsoff)
